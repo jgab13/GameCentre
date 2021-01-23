@@ -1,16 +1,15 @@
 # GAMECENTRE PHASE 2
 
 ## Project description
-Game centre phase 2 is a project created by Joshua Cernigilia, Julian Cheng, Uzair Chudhary,
-Jonathan Gabe, and Sid Gupta for CSC207 fall 2018 software design. The game centre allows users to
+Game centre phase 2 is a project created by Joshua, Julian, Uzair,
+Jonathan, and Sid for CSC207 fall 2018 software design. The game centre allows users to
 sign up and log in to their accounts to play the sliding tiles, checkers and 2048. Users are able to
  track their high scores and the high scores across accounts on personal and global leaderboards.
  Additionally, users can customize new games based on the number of redos they want and the board size.
  Users can save games and load previously saved games to resume play at a later time.
 
 ## Setup instructions
-Clone the repository in Android studio using the following link https://markus.teach.cs.toronto.edu/git/csc207-2018-09-reg/group_0622
-Once the project finishes cloning, close the project. In Android Studio, open project at GameCentre level in file explorer. As the project builds, a window, "unregistered VCS root detected",
+Clone the repository in Android studio. Once the project finishes cloning, close the project. In Android Studio, open project at GameCentre level in file explorer. As the project builds, a window, "unregistered VCS root detected",
 may appear. Click add root. The project should be ready to run at this point. Please run emulator with Pixel 2 API 27 (Android 8.1).
 When you run the app, it might ask you whether you want to allow USB debugging. If it does, click OK and wait for the "Welcome to GameCentre!" screen to appear.
 
